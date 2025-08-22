@@ -1,44 +1,3 @@
-# Day-1
-#python=Python is a high-level, general-purpose programming language known for its
-#  readability and simplicity.
-#  It was created by Guido van Rossum 
-
-#f-string="formatted string literal," is a feature introduced in Python 3.6 that provides 
-#          a concise and readable way to embed expressions inside string literals.
-#]print (f"I am years {age} old" )
-#print(f"hello{"hemanth"}")
-
-#integers = shouldn't contain strings or quotes
-#age =18
-#players=11
-#bats =5
-#print(f"Each should be above {age} years")
-##print(f"No.of {players} palyers in team")
-#gpa =9.2
-#distance=12.5
-#price=15.90
-
-#print(f"I travel from {distance}kms everyday")
-#print(f"The cost of my pen is ${price}")
-"""
-#boolean=it is either true or false(they should be CAPITAL)
-#is_student=True
-#print(f"are you a student? {is_student}")
-#for_sale=False
-#if for_sale:
- #  print("you car on for_sale ")
-#  print("your car NOT on for_sale")
-is_online= False
-if is_online:
-   print("you are online")
-else:
-   print("you are offline") 
-                        """
- 
- 
-
-
- #day-2 (typecasting,lists,tuples,sets,dictionaries.)
  #Typecasting= The process of converting a variable one data type to another data type 
  #  str(),int(),float(),bool()
 
@@ -233,36 +192,5 @@ else:
     print("invalid unit")
 
 print(f"your temperature is {temp}{unit}")'''
-
-
-#logical operators = evaluate multiple conditions (or,and,not)
-#                    or=atleast one condition must be true
-#                    and=both conditions must be true 
-#                     not=inverts the condition (not false,not true)
-
-
-#coonditional expression = A one-line shortcut for the if-else statement(ternary operator)
-#                          Print or allign one of two values based on a condition
-#                          X if condition else Y
-
-
-#name=input("Enter your name: ")
-#result=len(name)
-#result=name.find("")
-#reslt=name.rfind("")(to find reverse)
-#result=name.capitalize()
-#result=name.upper()
-#result=name.lower()
-#rsult=name.is_digit()
-#result=name.isalpha()
-#result=phone_number.count("")
-#result=phone_number.replace("","")
-#print(result)             print(help(str)) it provides all
-
-
-#validate user input exercises
-#1.username should be below 12 characters
-#2.username must not contain spaces
-#3.username must not contain digits
 
 print("hello world")
