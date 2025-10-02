@@ -10,6 +10,7 @@ A simple calculator built in python.
 A compound interest calculator built in python.
 #Features
 -To find interest for the given time period.
+-Error handling for invalid inputs.
 
 
 
@@ -17,3 +18,5 @@ A compound interest calculator built in python.
 A countdown timer built in python.
 #Features 
 -It provides countdown to given time.
+-Error handling for invalid inputs.
+
