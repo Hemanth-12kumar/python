@@ -10,7 +10,16 @@ A simple calculator built in python.
 A compound interest calculator built in python.
 #Features
 -To find interest for the given time period.
--Error handling for invalid inputs.
+-Error handling for invalid inputs
+
+
+#Rock paper and scissor game
+A Rock,paper and scissor built in python.
+#Features 
+-You can easily play with computer just with words rock,paper and scissor.
+#About
+-The winner is decided on certain rules like rock crushes scissor,scissor cuts paper and paper covers rock.If both choose same means tie.
+
 
 
 
