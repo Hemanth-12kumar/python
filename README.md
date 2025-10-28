@@ -29,3 +29,6 @@ A countdown timer built in python.
 -It provides countdown to given time.
 -Error handling for invalid inputs.
 
+#Certificate from python 
+-On oct 2025 i completed python course in Kaggle learn and I was certifited by them for completing the python course successfully.
+
